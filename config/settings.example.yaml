@@ -1,0 +1,69 @@
+# Copy to settings.yaml and set your Gmail address before use.
+timezone: Asia/Seoul
+recipient: your-email@example.com
+model: gpt-5.4-mini
+monthly_budget_usd: 10.0
+daily_budget_usd: 0.90
+schedule_days_interval: 3
+schedule_anchor: '2026-11-09'
+allow_reposted_sources: true
+input_usd_per_million: 0.75
+output_usd_per_million: 4.50
+web_search_usd_per_call: 0.01
+pricing_verified: '2026-11-09'
+max_search_calls: 12
+max_output_tokens: 1800
+max_jd_tokens: 6500
+max_run_seconds: 1080
+max_candidates_per_source: 30
+# Only incremental reports use this cap. Complete recurring digests include all eligible jobs.
+max_report_jobs: 15
+report_repeat_candidates: true
+source_timeout_seconds: 35
+maintenance_enabled: true
+repair_daily_budget_usd: 0.10
+repair_monthly_budget_usd: 1.0
+repair_max_incidents_per_day: 2
+repair_max_attempts: 2
+repair_max_output_tokens: 4000
+repair_max_seconds: 1080
+repair_live_interval_seconds: 30
+repair_cooldown_days: 7
+repair_image: career-scout-parser:1
+excluded_company_patterns:
+  - '(?i)^(?:주식회사|\(주\))?\s*(?:LG|엘지|한화|Hanwha|포스코|POSCO|CJ|씨제이|HD\s*현대|HD\s*HYUNDAI|에이치디현대)'
+  - '(?i)쿠팡|Coupang|토스|Toss|비바리퍼블리카|당근|Daangn|Karrot'
+excluded_company_ids: [coupang, toss, daangn]
+finance_permanent_only: true
+target_total_compensation_krw: 130000000
+excluded_employers:
+  - LG CNS
+  - 삼성SDS
+  - Samsung SDS
+  - SK AX
+  - SK C&C
+  - 현대오토에버
+  - Accenture
+  - Deloitte
+  - PwC
+  - EY
+  - KPMG
+role_keywords:
+  - agent
+  - llm
+  - rag
+  - generative
+  - 생성형
+  - 인공지능
+  - 온톨로지
+  - ontology
+  - text2sql
+  - ai engineer
+  - ai platform
+  - ai search
+  - artificial intelligence
+  - ai 개발
+  - ai 서비스
+  - ai 기술
+  - ai 플랫폼
+  - ai 엔지니어

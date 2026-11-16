@@ -1,0 +1,101 @@
+companies:
+  - id: samsung_ds
+    name: 삼성전자 DS
+    tier: 1
+    organization: DS
+    url: https://www.samsungcareers.com/hr/?ty=B
+    adapter: samsungcareers
+    portal_company_name: 삼성전자 DS부문
+    supplemental_urls: [https://www.samsung-dsrecruit.com/recruits/career_journey/index.php]
+    domains: [samsung-dsrecruit.com, samsungcareers.com, samsungdstalentrecruit.com]
+  - id: skhynix
+    name: SK하이닉스
+    tier: 1
+    url: https://www.skcareers.com/Recruit
+    domains: [skcareers.com, talent.skhynix.com, recruit.skhynix.com]
+    link_pattern: '(?i)/Recruit/(Detail|View)|/recruitment/|/jobs/'
+    adapter: skcareers
+    supplemental_urls: [https://talent.skhynix.com/hub/ko/apply/job]
+    hub_url: https://talent.skhynix.com/hub/ko/apply/job
+  - id: hyundai
+    name: 현대자동차
+    tier: 2
+    url: https://talent.hyundai.com/apply/applyList.hc
+    domains: [talent.hyundai.com]
+    adapter: hyundai
+  - id: kia
+    name: 기아
+    tier: 2
+    url: https://career.kia.com/apply/applyList.kc
+    domains: [career.kia.com]
+    adapter: kia
+  - id: samsung_research
+    name: 삼성리서치
+    tier: 2
+    organization: Samsung Research
+    url: https://www.samsungcareers.com/hr/?ty=B
+    adapter: samsungcareers
+    portal_company_name: 삼성전자 DX부문
+    supplemental_urls: [https://research.samsung.com/careers]
+    domains: [research.samsung.com, samsungcareers.com]
+  - id: skt
+    name: SK텔레콤
+    tier: 3
+    url: https://www.skcareers.com/Recruit?corpCode=10005
+    adapter: skcareers
+    domains: [careers.sktelecom.com, thecareers.sktelecom.com, skcareers.com]
+  - id: naver
+    name: 네이버
+    tier: 3
+    url: https://recruit.navercorp.com/rcrt/list.do
+    domains: [recruit.navercorp.com]
+    adapter: naver
+  - id: kakao
+    name: 카카오
+    tier: 3
+    url: https://careers.kakao.com/jobs
+    domains: [careers.kakao.com]
+    adapter: kakao
+  - id: mobis
+    name: 현대모비스
+    tier: 3
+    url: https://careers.mobis.com/jobs
+    domains: [careers.mobis.com, mobis.recruiter.co.kr]
+    adapter: mobis
+  - id: krafton
+    name: 크래프톤
+    wanted_aliases: [크래프톤(Krafton)]
+    tier: 3
+    url: https://job-boards.greenhouse.io/krafton
+    adapter: greenhouse
+    board: krafton
+    domains: [krafton.com, krafton.recruiter.co.kr, job-boards.greenhouse.io, boards-api.greenhouse.io]
+  - id: google
+    name: Google Korea
+    tier: 3
+    adapter: google
+    timeout_seconds: 120
+    url: https://www.google.com/about/careers/applications/jobs/results/?location=Seoul%2C%20South%20Korea
+    domains: [google.com, careers.google.com]
+    link_pattern: '(?i)/jobs/results/\d+|/jobs/\d+'
+  - id: microsoft
+    name: Microsoft Korea
+    tier: 3
+    adapter: microsoft
+    url: https://apply.careers.microsoft.com/careers
+    domains: [apply.careers.microsoft.com, jobs.careers.microsoft.com]
+  - id: aws
+    name: AWS Korea
+    tier: 3
+    url: https://www.amazon.jobs/en/search?base_query=AWS&loc_query=South+Korea
+    domains: [amazon.jobs]
+    adapter: amazon
+    link_pattern: '(?i)/jobs/\d+'
+  - id: nvidia
+    name: NVIDIA Korea
+    tier: 3
+    url: https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite
+    domains: [nvidia.wd5.myworkdayjobs.com, nvidia.com]
+    adapter: workday
+    tenant: nvidia
+    board: NVIDIAExternalCareerSite

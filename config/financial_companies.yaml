@@ -1,0 +1,415 @@
+# Financial scope: registration is not proof of complete collection.
+companies:
+- id: samsung_securities
+  name: 삼성증권
+  tier: 3
+  finance_category: securities
+  url: https://www.samsungcareers.com/hr/?ty=B
+  adapter: samsungcareers
+  portal_company_name: 삼성증권
+  domains:
+  - samsungcareers.com
+  - samsungpop.com
+- id: miraeasset
+  name: 미래에셋증권
+  tier: 3
+  finance_category: securities
+  adapter: maintenance
+  url: https://recruit.securities.miraeasset.com/
+  domains:
+  - recruit.securities.miraeasset.com
+  - securities.miraeasset.com
+  link_pattern: (?i)apply_view\.jsp|/jobs/|reMenuAction|recruit
+- id: korea_investment
+  name: 한국투자증권
+  tier: 3
+  finance_category: securities
+  url: https://career.koreainvestment.com/announcementList
+  domains:
+  - career.koreainvestment.com
+  - truefriend.com
+  adapter: korea_investment
+- id: nh_securities
+  name: NH투자증권
+  tier: 3
+  finance_category: securities
+  url: https://nhqv.recruiter.co.kr/
+  domains:
+  - nhqv.recruiter.co.kr
+  - nhqv.com
+- id: kb_securities
+  name: KB증권
+  tier: 3
+  finance_category: securities
+  url: https://careers.kbfg.com/
+  adapter: kb_group
+  kb_code: KBSEC
+  domains:
+  - kbsec.recruiter.co.kr
+  - kbsec.com
+  - careers.kbfg.com
+  - kbsec.career.greetinghr.com
+- id: shinhan_securities
+  name: 신한투자증권
+  tier: 3
+  finance_category: securities
+  url: https://recruit.shinhansec.com/recruit/list.do
+  adapter: shinhansec
+  domains:
+  - recruit.shinhansec.com
+  - shinhansec.com
+- id: hana_securities
+  name: 하나증권
+  tier: 3
+  finance_category: securities
+  url: https://hanaw-hr.recruiter.co.kr/career/home
+  domains:
+  - hanaw-hr.recruiter.co.kr
+  - hanaw.com
+- id: kiwoom_securities
+  name: 키움증권
+  tier: 3
+  finance_category: securities
+  url: https://www.kiwoom.com/h/ir/recruit/VJobOpeningView?dummyVal=0
+  adapter: kiwoom
+  domains:
+  - www.kiwoom.com
+  - kiwoom.com
+  - bbn.kiwoom.com
+- id: meritz_securities
+  name: 메리츠증권
+  tier: 3
+  finance_category: securities
+  url: https://imeritz.careerlink.kr/
+  adapter: careerlink
+  domains:
+  - imeritz.careerlink.kr
+  - meritzcareers.com
+  - meritz.co.kr
+- id: daishin_securities
+  name: 대신증권
+  tier: 3
+  finance_category: securities
+  url: https://company.daishin.com/E5/MBoard/PType_Basic/Recruiting_Info/DW_Basic_List.aspx
+  adapter: daishin_board
+  domains:
+  - daishin.recruiter.co.kr
+  - daishin.com
+  - company.daishin.com
+- id: hyundai_securities
+  name: 현대차증권
+  tier: 3
+  finance_category: securities
+  url: https://recruit.hmsec.com/
+  adapter: hmsec
+  timeout_seconds: 65
+  domains:
+  - recruit.hmsec.com
+  - hmsec.com
+- id: ibk_securities
+  name: IBK투자증권
+  tier: 3
+  finance_category: securities
+  adapter: ibks
+  url: https://recruit.ibks.com/cv/announces/ibks
+  domains:
+  - recruit.ibks.com
+  - ibks.com
+- id: samsung_card
+  name: 삼성카드
+  tier: 3
+  finance_category: card
+  url: https://www.samsungcareers.com/hr/?ty=B
+  adapter: samsungcareers
+  portal_company_name: 삼성카드
+  domains:
+  - samsungcareers.com
+  - samsungcard.com
+- id: shinhan_card
+  name: 신한카드
+  tier: 3
+  finance_category: card
+  url: https://shcard.incruit.com/hire/hirelist.asp
+  adapter: incruit_current
+  domains:
+  - shinhancard.recruiter.co.kr
+  - shinhancard.com
+  - shcard.incruit.com
+- id: kb_card
+  name: KB국민카드
+  tier: 3
+  finance_category: card
+  url: https://kbcard.careerlink.kr/
+  adapter: careerlink
+  domains:
+  - kbcard.recruiter.co.kr
+  - kbcard.careerlink.kr
+  - careers.kbfg.com
+  - card.kbcard.com
+- id: hyundai_card
+  name: 현대카드
+  tier: 3
+  finance_category: card
+  url: https://careerhyundai.recruiter.co.kr/
+  domains:
+  - careerhyundai.recruiter.co.kr
+  - career.hyundaicard.com
+  - hyundaicard.com
+- id: woori_card
+  name: 우리카드
+  tier: 3
+  finance_category: card
+  url: https://wooricard.careerlink.kr/jobs
+  adapter: careerlink
+  domains:
+  - wooricard.recruiter.co.kr
+  - wooricard.careerlink.kr
+  - wooricard.career.greetinghr.com
+  - wooricard.com
+- id: hana_card
+  name: 하나카드
+  tier: 3
+  finance_category: card
+  url: https://hanacard.incruit.com/hire/hirelist.asp
+  adapter: incruit_current
+  domains:
+  - hanacard.recruiter.co.kr
+  - hanacard.co.kr
+  - hanacard.incruit.com
+- id: bc_card
+  name: BC카드
+  wanted_aliases: [비씨카드(BC카드)]
+  tier: 3
+  finance_category: card
+  url: https://m.recruit.kt.com/careers/
+  adapter: kt_group
+  domains:
+  - bccard.recruiter.co.kr
+  - bccard.com
+  - m.recruit.kt.com
+  - recruit.kt.com
+  - kt.recruiter.co.kr
+- id: lotte_card
+  name: 롯데카드
+  tier: 3
+  finance_category: card
+  primary_timeout_seconds: 8
+  timeout_seconds: 50
+  url: https://www.lottecard.co.kr/
+  domains:
+  - www.lottecard.co.kr
+  - lottecard.co.kr
+- id: kb
+  name: KB국민은행
+  tier: 3
+  finance_category: bank
+  url: https://jobs.kbstar.com/search/
+  adapter: successfactors
+  domains:
+  - jobs.kbstar.com
+  - recruit.incruit.com
+  - kbstar.incruit.com
+  - kbstar.com
+- id: shinhan
+  name: 신한은행
+  tier: 3
+  finance_category: bank
+  url: https://shinhan.recruiter.co.kr/
+  domains:
+  - shinhan.recruiter.co.kr
+  - shinhan.com
+- id: hana_bank
+  name: 하나은행
+  tier: 3
+  finance_category: bank
+  url: https://hanabank.recruiter.co.kr/
+  domains:
+  - hanabank.recruiter.co.kr
+  - kebhana.com
+- id: woori_bank
+  name: 우리은행
+  tier: 3
+  finance_category: bank
+  url: https://www.woorifg.com/kor/recruit/recruit-announcement/list.do
+  adapter: woori_group
+  domains:
+  - wooribank.incruit.com
+  - wooribank.com
+  - www.woorifg.com
+  - recruit.incruit.com
+- id: nh_bank
+  name: NH농협은행
+  tier: 3
+  finance_category: bank
+  url: https://with.nonghyup.com/jbnf/jbnfLst.do
+  adapter: nh
+  timeout_seconds: 90
+  nh_code: '1'
+  domains:
+  - with.nonghyup.com
+  - nhbank.com
+  portal_company_name: 농협은행
+- id: ibk_bank
+  name: IBK기업은행
+  tier: 3
+  finance_category: bank
+  url: https://ibk.incruit.com/index_main_2025.asp
+  adapter: ibk
+  domains:
+  - ibk.incruit.com
+  - ibk1.incruit.com
+  - ibk3.incruit.com
+  - ibk4.incruit.com
+  - ibk.co.kr
+- id: kakaobank
+  name: 카카오뱅크
+  wanted_aliases: [카카오뱅크(kakaobank)]
+  tier: 3
+  finance_category: bank
+  url: https://recruit.kakaobank.com/jobs
+  domains:
+  - recruit.kakaobank.com
+  - kakaobank.recruiter.co.kr
+  adapter: kakaobank
+- id: kbank
+  name: 케이뱅크
+  tier: 3
+  finance_category: bank
+  url: https://kbank.recruiter.co.kr/
+  domains:
+  - kbank.recruiter.co.kr
+  - kbanknow.com
+- id: kdb_bank
+  name: KDB산업은행
+  tier: 3
+  finance_category: bank
+  adapter: kdb
+  url: https://recruit.kdb.co.kr/
+  domains:
+  - recruit.kdb.co.kr
+  - kdb.co.kr
+- id: im_bank
+  name: iM뱅크
+  tier: 3
+  finance_category: bank
+  url: https://im.recruiter.co.kr/
+  domains:
+  - im.recruiter.co.kr
+  - imbank.co.kr
+- id: samsung_life
+  name: 삼성생명
+  tier: 3
+  finance_category: insurance
+  url: https://www.samsungcareers.com/hr/?ty=B
+  adapter: samsungcareers
+  portal_company_name: 삼성생명
+  domains:
+  - samsungcareers.com
+  - samsunglife.com
+- id: samsung_fire
+  name: 삼성화재
+  tier: 3
+  finance_category: insurance
+  url: https://www.samsungcareers.com/hr/?ty=B
+  adapter: samsungcareers
+  portal_company_name: 삼성화재
+  domains:
+  - samsungcareers.com
+  - samsungfire.com
+- id: kyobo_life
+  name: 교보생명
+  tier: 3
+  finance_category: insurance
+  adapter: kyobo
+  url: https://career.kyobo.co.kr/
+  domains:
+  - career.kyobo.co.kr
+  - kyobo.com
+- id: shinhan_life
+  name: 신한라이프
+  tier: 3
+  finance_category: insurance
+  url: https://shinhan-life.recruiter.co.kr/career/home
+  domains:
+  - shinhan-life.recruiter.co.kr
+  - shinhanlife.co.kr
+- id: kb_life
+  name: KB라이프생명
+  tier: 3
+  finance_category: insurance
+  url: https://careers.kbfg.com/
+  adapter: kb_group
+  kb_code: KBLIFE
+  domains:
+  - kblife.recruiter.co.kr
+  - kblife.co.kr
+  - careers.kbfg.com
+  - kblife-recruiting.career.greetinghr.com
+- id: hyundai_insurance
+  name: 현대해상
+  tier: 3
+  finance_category: insurance
+  url: https://hi.recruiter.co.kr/
+  domains:
+  - hi.recruiter.co.kr
+  - hi.co.kr
+- id: db_insurance
+  name: DB손해보험
+  tier: 3
+  finance_category: insurance
+  url: https://dbgroup.recruiter.co.kr/
+  portal_aliases: [DB그룹]
+  portal_employer_prefix: '[DB손해보험]'
+  domains:
+  - dbgroup.recruiter.co.kr
+  - idbins.com
+- id: kb_insurance
+  name: KB손해보험
+  tier: 3
+  finance_category: insurance
+  url: https://kbinsure.recruiter.co.kr/
+  domains:
+  - kbinsure.recruiter.co.kr
+  - kbinsure.co.kr
+- id: meritz_fire
+  name: 메리츠화재
+  tier: 3
+  finance_category: insurance
+  adapter: meritzfire
+  timeout_seconds: 100
+  url: https://recruit.meritzfire.com/new/job/noticeList.do
+  domains:
+  - recruit.meritzfire.com
+  - meritzcareers.com
+  - meritzfire.com
+- id: nh_life
+  name: NH농협생명
+  tier: 3
+  finance_category: insurance
+  url: https://with.nonghyup.com/jbnf/jbnfLst.do
+  adapter: nh
+  nh_code: C
+  domains:
+  - with.nonghyup.com
+  - nhlife.co.kr
+  portal_company_name: 농협생명
+- id: nh_insurance
+  name: NH농협손해보험
+  tier: 3
+  finance_category: insurance
+  url: https://with.nonghyup.com/jbnf/jbnfLst.do
+  adapter: nh
+  nh_code: D
+  domains:
+  - with.nonghyup.com
+  - nhfire.co.kr
+  portal_company_name: 농협손해보험
+- id: mirae_life
+  name: 미래에셋생명
+  tier: 3
+  finance_category: insurance
+  adapter: ninehire
+  url: https://miraeassetlife.ninehire.site/0
+  domains:
+  - miraeassetlife.ninehire.site
+  - life.miraeasset.com

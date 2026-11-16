@@ -1,0 +1,34 @@
+# Fictional example. Replace every item with verified personal experience before use.
+profile_version: 1
+employment_start: '2020-01-01'
+education:
+  - 컴퓨터 관련 학사 예시; 실제 학력으로 교체
+  - 석사 기간은 실무 경력과 별도로 기록
+experience:
+  - id: agent
+    description: 예시 — LangGraph Router/Planner, 도구 호출, HITL 기반 AI Agent 개발.
+  - id: search
+    description: 예시 — BM25, 벡터 검색, Reranking 기반 RAG 및 Text2SQL 개발.
+  - id: production
+    description: 예시 — 사내 AI 서비스의 백엔드·연동 개발과 출시 경험. 검증한 실적만 기입.
+  - id: operations
+    description: 예시 — Python, FastAPI, Docker 기반 서비스 운영. Kubernetes 전문 경력은 미확인.
+  - id: evaluation
+    description: 예시 — Golden Set, LLM Judge, 자동 평가와 Trace 기반 품질 관리.
+  - id: ontology
+    description: 예시 — Entity/Relation 모델링과 GraphRAG, Text2SQL 검토 경험.
+  - id: manufacturing
+    description: 예시 — 정형 데이터·문서 기반 제조 업무 Agent 개발.
+  - id: leadership
+    description: 예시 — AI 개발 과제 요구사항 정의, 일정·품질 관리 및 기술 리딩.
+  - id: earlier
+    description: 예시 — Python·SQL, 데이터 분석 및 ML 개발 경험. 현재 주력 직무와 구분.
+goals:
+  - AI Agent·RAG·Text2SQL 제품 개발
+  - AI 제품·서비스 기획 또는 AI 개발 프로젝트 PM·PL
+role_boundaries:
+  - Agent·RAG·Text2SQL·Ontology 제품 개발과 해당 제품 기획·PM·PL에 집중
+  - MLOps·데이터 분석·데이터 엔지니어링·일반 ML 모델 중심 역할은 제외
+limitations:
+  - 모든 항목은 예시이며 실제 경력으로 바꾸기 전에는 개인 적합성 평가에 사용하지 않음
+  - 학력과 실무 기간을 합산하지 않고 검증하지 않은 성과는 기입하지 않음

@@ -1,0 +1,1166 @@
+{
+  "success": true,
+  "totalCount": 116,
+  "list": [
+    {
+      "noticeID": "R262345",
+      "corpName": "SK biopharmaceuticals",
+      "title": "HR 인턴 구성원 영입",
+      "recruitType": "Intern",
+      "workingType": "Contract",
+      "workingArea": "Gyeonggi/Incheon",
+      "start": "October 26, 2026(Mon)",
+      "end": "November 09, 2026(Mon)"
+    },
+    {
+      "noticeID": "R262401",
+      "corpName": "SK plasma",
+      "title": " SK플라즈마 자금/공시 담당 경력사원 모집",
+      "recruitType": "Experienced",
+      "workingType": "Permanent",
+      "workingArea": "Gyeonggi/Incheon",
+      "start": "November 02, 2026(Mon)",
+      "end": "November 09, 2026(Mon)"
+    },
+    {
+      "noticeID": "R262206",
+      "corpName": "SK telecom",
+      "title": "DevSecOps 엔지니어",
+      "recruitType": "Experienced",
+      "workingType": "Permanent",
+      "workingArea": "Seoul",
+      "start": "October 14, 2026(Wed)",
+      "end": "November 10, 2026(Tue)"
+    },
+    {
+      "noticeID": "R262207",
+      "corpName": "SK telecom",
+      "title": "개인정보보호 전문가",
+      "recruitType": "Experienced",
+      "workingType": "Permanent",
+      "workingArea": "Seoul",
+      "start": "October 14, 2026(Wed)",
+      "end": "November 10, 2026(Tue)"
+    },
+    {
+      "noticeID": "R262209",
+      "corpName": "SK telecom",
+      "title": "클라우드 네트워크 보안 아키텍처 및 접근통제 전문가",
+      "recruitType": "Experienced",
+      "workingType": "Permanent",
+      "workingArea": "Seoul",
+      "start": "October 14, 2026(Wed)",
+      "end": "November 10, 2026(Tue)"
+    },
+    {
+      "noticeID": "R262276",
+      "corpName": "Narae Energy Service",
+      "title": "[나래에너지서비스(O&M) 이천/청주사업소 장애인 사원 영입",
+      "recruitType": "Any Experience Level",
+      "workingType": "Contract",
+      "workingArea": "Gyeonggi/Incheon,Chungcheong",
+      "start": "October 20, 2026(Tue)",
+      "end": "November 10, 2026(Tue)"
+    },
+    {
+      "noticeID": "R262356",
+      "corpName": "SK networks service",
+      "title": "[SK네트웍스서비스] 2026년 10~11월 Solution CIC 사업기획 담당자 채용   ",
+      "recruitType": "Any Experience Level",
+      "workingType": "Permanent",
+      "workingArea": "Seoul",
+      "start": "October 27, 2026(Tue)",
+      "end": "November 10, 2026(Tue)"
+    },
+    {
+      "noticeID": "R262374",
+      "corpName": "SK biopharmaceuticals",
+      "title": "AI Solutions Engineer 구성원 영입",
+      "recruitType": "Experienced",
+      "workingType": "Permanent",
+      "workingArea": "Gyeonggi/Incheon",
+      "start": "October 28, 2026(Wed)",
+      "end": "November 10, 2026(Tue)"
+    },
+    {
+      "noticeID": "R262422",
+      "corpName": "SK chemicals(GC)",
+      "title": "SK케미칼 울산공장 기계설비 계약직 채용",
+      "recruitType": "Experienced",
+      "workingType": "Contract",
+      "workingArea": "Ulsan",
+      "start": "November 04, 2026(Wed)",
+      "end": "November 10, 2026(Tue)"
+    },
+    {
+      "noticeID": "R262388",
+      "corpName": "SK ecoplant",
+      "title": "반도체플랜트 PJT계약직(촉탁) 모집공고('26.10)",
+      "recruitType": "Experienced",
+      "workingType": "Contract",
+      "workingArea": "NationWide",
+      "start": "October 30, 2026(Fri)",
+      "end": "November 11, 2026(Wed)"
+    },
+    {
+      "noticeID": "R262393",
+      "corpName": "SK gas",
+      "title": "2026년 SK가스 이사회 사무국 운영지원 포지션(계약직)",
+      "recruitType": "Experienced",
+      "workingType": "Contract",
+      "workingArea": "Gyeonggi/Incheon",
+      "start": "October 30, 2026(Fri)",
+      "end": "November 11, 2026(Wed)"
+    },
+    {
+      "noticeID": "R262387",
+      "corpName": "Glowide Co.,Ltd",
+      "title": "2026년 글로와이드 신입 및 경력사원 모집",
+      "recruitType": "Any Experience Level",
+      "workingType": "Permanent",
+      "workingArea": "Seoul",
+      "start": "October 29, 2026(Thu)",
+      "end": "November 12, 2026(Thu)"
+    },
+    {
+      "noticeID": "R262394",
+      "corpName": "SK biopharmaceuticals",
+      "title": "IP Junior 구성원 영입",
+      "recruitType": "Experienced",
+      "workingType": "Permanent",
+      "workingArea": "Gyeonggi/Incheon",
+      "start": "November 02, 2026(Mon)",
+      "end": "November 12, 2026(Thu)"
+    },
+    {
+      "noticeID": "R262406",
+      "corpName": "SK plasma",
+      "title": "SK플라즈마 개발전략 경력 구성원 모집",
+      "recruitType": "Experienced",
+      "workingType": "Permanent",
+      "workingArea": "Gyeonggi/Incheon",
+      "start": "November 03, 2026(Tue)",
+      "end": "November 12, 2026(Thu)"
+    },
+    {
+      "noticeID": "R262400",
+      "corpName": "SK pinx",
+      "title": "2026년 11월 SK핀크스 식음서비스팀 채용공고",
+      "recruitType": "Any Experience Level",
+      "workingType": "Permanent",
+      "workingArea": "Jeju",
+      "start": "November 04, 2026(Wed)",
+      "end": "November 13, 2026(Fri)"
+    },
+    {
+      "noticeID": "R262215",
+      "corpName": "SK AIGEN",
+      "title": "2027 SK AIGEN 1기 모집",
+      "recruitType": "Any Experience Level",
+      "workingType": "Others(교육생)",
+      "workingArea": "Seoul",
+      "start": "November 01, 2026(Sun)",
+      "end": "November 15, 2026(Sun)"
+    },
+    {
+      "noticeID": "R262340",
+      "corpName": "SK Inc.",
+      "title": "사내 변호사 (계약직)",
+      "recruitType": "Experienced",
+      "workingType": "Contract",
+      "workingArea": "Seoul",
+      "start": "October 26, 2026(Mon)",
+      "end": "November 15, 2026(Sun)"
+    },
+    {
+      "noticeID": "R262349",
+      "corpName": "SK telecom",
+      "title": "BX 디자이너",
+      "recruitType": "Experienced",
+      "workingType": "Contract",
+      "workingArea": "Seoul",
+      "start": "October 26, 2026(Mon)",
+      "end": "November 15, 2026(Sun)"
+    },
+    {
+      "noticeID": "R262352",
+      "corpName": "SK chemicals(LS)",
+      "title": "[SK케미칼] 청주공장 의약품 생산공정 운영·관리 담당자 신입(전환형 인턴) 모집 ",
+      "recruitType": "Intern",
+      "workingType": "Contract",
+      "workingArea": "Chungcheong",
+      "start": "October 26, 2026(Mon)",
+      "end": "November 15, 2026(Sun)"
+    },
+    {
+      "noticeID": "R262399",
+      "corpName": "SK telecom",
+      "title": "SK그룹 신입구성원과정 운영 지원 담당자",
+      "recruitType": "Entry-Level",
+      "workingType": "Contract",
+      "workingArea": "Seoul",
+      "start": "November 03, 2026(Tue)",
+      "end": "November 15, 2026(Sun)"
+    },
+    {
+      "noticeID": "R262407",
+      "corpName": "SK plasma",
+      "title": " SK플라즈마 항암희귀전문 의약품 영업 담당자(MR) 경력사원 모집",
+      "recruitType": "Experienced",
+      "workingType": "Permanent",
+      "workingArea": "Gyeonggi/Incheon",
+      "start": "November 03, 2026(Tue)",
+      "end": "November 15, 2026(Sun)"
+    },
+    {
+      "noticeID": "R262408",
+      "corpName": "SK plasma",
+      "title": " SK플라즈마 항암희귀전문 의약품 영업 담당자(MR) 신입(전환형 인턴) 모집",
+      "recruitType": "Intern",
+      "workingType": "Others(인턴)",
+      "workingArea": "Gyeonggi/Incheon",
+      "start": "November 03, 2026(Tue)",
+      "end": "November 15, 2026(Sun)"
+    },
+    {
+      "noticeID": "R262411",
+      "corpName": "SK plasma",
+      "title": "SK플라즈마 해외사업개발(Global Project) 경력 구성원 모집",
+      "recruitType": "Experienced",
+      "workingType": "Permanent",
+      "workingArea": "Gyeonggi/Incheon",
+      "start": "November 03, 2026(Tue)",
+      "end": "November 15, 2026(Sun)"
+    },
+    {
+      "noticeID": "R262413",
+      "corpName": "SK chemicals(LS)",
+      "title": "청주공장 회계 계약직 채용 (신입/경력)",
+      "recruitType": "Any Experience Level",
+      "workingType": "Contract",
+      "workingArea": "Chungcheong",
+      "start": "November 03, 2026(Tue)",
+      "end": "November 15, 2026(Sun)"
+    },
+    {
+      "noticeID": "R262421",
+      "corpName": "SK plasma",
+      "title": "SK플라즈마 Global PJT 담당 기술지원 경력사원 채용",
+      "recruitType": "Experienced",
+      "workingType": "Permanent",
+      "workingArea": "Gyeongsang",
+      "start": "November 04, 2026(Wed)",
+      "end": "November 15, 2026(Sun)"
+    },
+    {
+      "noticeID": "R262431",
+      "corpName": "EnSolve Co.,Ltd",
+      "title": "[엔솔브] 태양광 사업 기획 및 운영 담당 구성원 채용 (경력)",
+      "recruitType": "Experienced",
+      "workingType": "Permanent",
+      "workingArea": "Seoul",
+      "start": "November 05, 2026(Thu)",
+      "end": "November 15, 2026(Sun)"
+    },
+    {
+      "noticeID": "R261934",
+      "corpName": "SK inc.(AX)",
+      "title": "제조 설비OT 사업 보건관리 담당자 영입 (계약직)",
+      "recruitType": "Experienced",
+      "workingType": "Contract",
+      "workingArea": "Gyeonggi/Incheon",
+      "start": "September 10, 2026(Thu)",
+      "end": "November 16, 2026(Mon)"
+    },
+    {
+      "noticeID": "R261946",
+      "corpName": "SK inc.(AX)",
+      "title": "제조 물류자동화(AMHS) 전문가 영입 ",
+      "recruitType": "Experienced",
+      "workingType": "Permanent",
+      "workingArea": "Gyeonggi/Incheon,Chungcheong",
+      "start": "September 09, 2026(Wed)",
+      "end": "November 16, 2026(Mon)"
+    },
+    {
+      "noticeID": "R262403",
+      "corpName": "SK bioscience",
+      "title": "생산기획 경력사원 채용",
+      "recruitType": "Experienced",
+      "workingType": "Permanent",
+      "workingArea": "Gyeongsang",
+      "start": "November 03, 2026(Tue)",
+      "end": "November 16, 2026(Mon)"
+    },
+    {
+      "noticeID": "R262405",
+      "corpName": "SK bioscience",
+      "title": "SHE(환경관리자) 경력사원 채용",
+      "recruitType": "Experienced",
+      "workingType": "Permanent",
+      "workingArea": "Gyeonggi/Incheon",
+      "start": "November 03, 2026(Tue)",
+      "end": "November 16, 2026(Mon)"
+    },
+    {
+      "noticeID": "R262432",
+      "corpName": "SK biotek",
+      "title": "[신입] SK바이오텍 보관소 운전원 신입사원 모집",
+      "recruitType": "Entry-Level",
+      "workingType": "Permanent",
+      "workingArea": "Chungcheong",
+      "start": "November 05, 2026(Thu)",
+      "end": "November 16, 2026(Mon)"
+    },
+    {
+      "noticeID": "R262434",
+      "corpName": "SK bioscience",
+      "title": "Project Management 경력사원 채용",
+      "recruitType": "Experienced",
+      "workingType": "Permanent",
+      "workingArea": "Gyeonggi/Incheon",
+      "start": "November 06, 2026(Fri)",
+      "end": "November 16, 2026(Mon)"
+    },
+    {
+      "noticeID": "R262435",
+      "corpName": "SK bioscience",
+      "title": "백신 원료의약품 제조공정 개발 경력사원 채용",
+      "recruitType": "Experienced",
+      "workingType": "Permanent",
+      "workingArea": "Gyeonggi/Incheon",
+      "start": "November 06, 2026(Fri)",
+      "end": "November 16, 2026(Mon)"
+    },
+    {
+      "noticeID": "R262414",
+      "corpName": "SK eternix",
+      "title": "[SK이터닉스] 사업지원 담당 채용 (계약직)",
+      "recruitType": "Experienced",
+      "workingType": "Contract",
+      "workingArea": "Gyeonggi/Incheon",
+      "start": "November 03, 2026(Tue)",
+      "end": "November 17, 2026(Tue)"
+    },
+    {
+      "noticeID": "R262067",
+      "corpName": "SK inc.(AX)",
+      "title": "SAP ERP 운영/개발 및 PI(Process Innovation) 분야 전문가 영입",
+      "recruitType": "Experienced",
+      "workingType": "Permanent",
+      "workingArea": "Gyeonggi/Incheon",
+      "start": "October 06, 2026(Tue)",
+      "end": "November 17, 2026(Tue)"
+    },
+    {
+      "noticeID": "R262157",
+      "corpName": "SK inc.(AX)",
+      "title": "Digital Twin 사업 PM/PL 영입 (계약직)",
+      "recruitType": "Experienced",
+      "workingType": "Contract",
+      "workingArea": "Gyeonggi/Incheon",
+      "start": "October 06, 2026(Tue)",
+      "end": "November 17, 2026(Tue)"
+    },
+    {
+      "noticeID": "R262447",
+      "corpName": "SK plasma",
+      "title": "SK플라즈마 제조관리 약사 채용",
+      "recruitType": "Any Experience Level",
+      "workingType": "Permanent",
+      "workingArea": "Gyeongsang",
+      "start": "November 09, 2026(Mon)",
+      "end": "November 18, 2026(Wed)"
+    },
+    {
+      "noticeID": "R261936",
+      "corpName": "SK inc.(AX)",
+      "title": "AI Agent 엔지니어 영입",
+      "recruitType": "Experienced",
+      "workingType": "Permanent",
+      "workingArea": "Gyeonggi/Incheon",
+      "start": "September 11, 2026(Fri)",
+      "end": "November 20, 2026(Fri)"
+    },
+    {
+      "noticeID": "R261937",
+      "corpName": "SK inc.(AX)",
+      "title": "AI Data 엔지니어 영입",
+      "recruitType": "Experienced",
+      "workingType": "Permanent",
+      "workingArea": "Gyeonggi/Incheon",
+      "start": "September 11, 2026(Fri)",
+      "end": "November 20, 2026(Fri)"
+    },
+    {
+      "noticeID": "R261938",
+      "corpName": "SK inc.(AX)",
+      "title": "AI Model 엔지니어 영입",
+      "recruitType": "Experienced",
+      "workingType": "Permanent",
+      "workingArea": "Gyeonggi/Incheon",
+      "start": "September 11, 2026(Fri)",
+      "end": "November 20, 2026(Fri)"
+    },
+    {
+      "noticeID": "R261939",
+      "corpName": "SK inc.(AX)",
+      "title": "AI Agent 개발자 전문가 영입",
+      "recruitType": "Experienced",
+      "workingType": "Permanent",
+      "workingArea": "Gyeonggi/Incheon",
+      "start": "September 11, 2026(Fri)",
+      "end": "November 20, 2026(Fri)"
+    },
+    {
+      "noticeID": "R261940",
+      "corpName": "SK inc.(AX)",
+      "title": "AI 플랫폼 아키텍트 전문가 영입",
+      "recruitType": "Experienced",
+      "workingType": "Permanent",
+      "workingArea": "Gyeonggi/Incheon",
+      "start": "September 11, 2026(Fri)",
+      "end": "November 20, 2026(Fri)"
+    },
+    {
+      "noticeID": "R261970",
+      "corpName": "SK inc.(AX)",
+      "title": "전사 통합 Image 솔루션 제공 플랫폼 Application 개발.운영 PL 영입",
+      "recruitType": "Experienced",
+      "workingType": "Permanent",
+      "workingArea": "Gyeonggi/Incheon",
+      "start": "September 11, 2026(Fri)",
+      "end": "November 20, 2026(Fri)"
+    },
+    {
+      "noticeID": "R262043",
+      "corpName": "SK signet",
+      "title": "전기차 충전기 SW/FW 검증 및 시험 자동화 엔지니어",
+      "recruitType": "Experienced",
+      "workingType": "Permanent",
+      "workingArea": "Gyeonggi/Incheon",
+      "start": "September 21, 2026(Mon)",
+      "end": "November 21, 2026(Sat)"
+    },
+    {
+      "noticeID": "R262045",
+      "corpName": "SK signet",
+      "title": "영업관리/기획 담당",
+      "recruitType": "Experienced",
+      "workingType": "Permanent",
+      "workingArea": "Gyeonggi/Incheon",
+      "start": "September 21, 2026(Mon)",
+      "end": "November 21, 2026(Sat)"
+    },
+    {
+      "noticeID": "R262437",
+      "corpName": "Narae Energy Service",
+      "title": " (집단E) 정보·물리보안/총무 경력직 영입 ",
+      "recruitType": "Experienced",
+      "workingType": "Permanent",
+      "workingArea": "Gyeonggi/Incheon",
+      "start": "November 06, 2026(Fri)",
+      "end": "November 21, 2026(Sat)"
+    },
+    {
+      "noticeID": "R262057",
+      "corpName": "SK signet",
+      "title": " 전기차 충전기 제품 인증 취득 담당 (경력)",
+      "recruitType": "Experienced",
+      "workingType": "Permanent",
+      "workingArea": "Gyeonggi/Incheon",
+      "start": "September 22, 2026(Tue)",
+      "end": "November 22, 2026(Sun)"
+    },
+    {
+      "noticeID": "R262353",
+      "corpName": "SK chemicals(LS)",
+      "title": "[SK케미칼] 의약품 생산공정관리 담당자 경력 모집",
+      "recruitType": "Experienced",
+      "workingType": "Contract",
+      "workingArea": "Chungcheong",
+      "start": "November 02, 2026(Mon)",
+      "end": "November 22, 2026(Sun)"
+    },
+    {
+      "noticeID": "R262396",
+      "corpName": "SK advanced",
+      "title": "[SK가스] 어드밴스드(PDH) 사업부문 현장운전원 채용(신입)",
+      "recruitType": "Entry-Level",
+      "workingType": "Contract",
+      "workingArea": "Ulsan",
+      "start": "November 06, 2026(Fri)",
+      "end": "November 22, 2026(Sun)"
+    },
+    {
+      "noticeID": "R262427",
+      "corpName": "SK airplus",
+      "title": "[SK에어플러스] 용인 Gas Plant 배관 시공 현장감독(계약직)",
+      "recruitType": "Experienced",
+      "workingType": "Contract",
+      "workingArea": "Gyeonggi/Incheon",
+      "start": "November 04, 2026(Wed)",
+      "end": "November 22, 2026(Sun)"
+    },
+    {
+      "noticeID": "R262436",
+      "corpName": "SK advanced",
+      "title": "[SK가스] 어드밴스드(PDH)사업부문 환경/화학물질 관리자 채용(경력)",
+      "recruitType": "Experienced",
+      "workingType": "Permanent",
+      "workingArea": "Ulsan",
+      "start": "November 06, 2026(Fri)",
+      "end": "November 22, 2026(Sun)"
+    },
+    {
+      "noticeID": "R262440",
+      "corpName": "SK plasma",
+      "title": "SK플라즈마 안동공장 인사(HR) 담당 경력사원 채용",
+      "recruitType": "Experienced",
+      "workingType": "Permanent",
+      "workingArea": "Gyeongsang",
+      "start": "November 09, 2026(Mon)",
+      "end": "November 22, 2026(Sun)"
+    },
+    {
+      "noticeID": "R262448",
+      "corpName": "SK chemicals(LS)",
+      "title": "[SK케미칼] Pharma사업 구매 담당자 경력 모집",
+      "recruitType": "Experienced",
+      "workingType": "Permanent",
+      "workingArea": "Gyeonggi/Incheon",
+      "start": "November 09, 2026(Mon)",
+      "end": "November 22, 2026(Sun)"
+    },
+    {
+      "noticeID": "R262441",
+      "corpName": "SK biotek",
+      "title": "[신입] SK바이오텍 생산운전원 신입사원 모집",
+      "recruitType": "Entry-Level",
+      "workingType": "Permanent",
+      "workingArea": "Chungcheong",
+      "start": "November 09, 2026(Mon)",
+      "end": "November 23, 2026(Mon)"
+    },
+    {
+      "noticeID": "R262444",
+      "corpName": "SK networks service",
+      "title": "[SK네트웍스서비스]2026년 11월 Solution 영업 사원  채용 (디지털인프라)",
+      "recruitType": "Any Experience Level",
+      "workingType": "Permanent",
+      "workingArea": "Seoul",
+      "start": "November 09, 2026(Mon)",
+      "end": "November 23, 2026(Mon)"
+    },
+    {
+      "noticeID": "R262150",
+      "corpName": "SK inc.(AX)",
+      "title": "Salesforce CRM 개발/운영 및 솔루션 전문가 영입",
+      "recruitType": "Experienced",
+      "workingType": "Permanent",
+      "workingArea": "Gyeonggi/Incheon,Seoul",
+      "start": "October 08, 2026(Thu)",
+      "end": "November 24, 2026(Tue)"
+    },
+    {
+      "noticeID": "R262159",
+      "corpName": "SK inc.(AX)",
+      "title": "제조 에너지/화학 계열 AI/DT 및 시스템 담당자 영입 (울산 근무)",
+      "recruitType": "Experienced",
+      "workingType": "Permanent",
+      "workingArea": "Ulsan",
+      "start": "October 06, 2026(Tue)",
+      "end": "November 24, 2026(Tue)"
+    },
+    {
+      "noticeID": "R262011",
+      "corpName": "SK inc.(AX)",
+      "title": "시스템 (서버) 전문가 영입 (계약직)",
+      "recruitType": "Experienced",
+      "workingType": "Contract",
+      "workingArea": "Seoul",
+      "start": "September 17, 2026(Thu)",
+      "end": "November 27, 2026(Fri)"
+    },
+    {
+      "noticeID": "R262105",
+      "corpName": "SK inc.(AX)",
+      "title": "SAP FI Module 전문가 영입",
+      "recruitType": "Experienced",
+      "workingType": "Permanent",
+      "workingArea": "Seoul,Gyeonggi/Incheon",
+      "start": "September 30, 2026(Wed)",
+      "end": "November 27, 2026(Fri)"
+    },
+    {
+      "noticeID": "R262135",
+      "corpName": "SK inc.(AX)",
+      "title": "정보보안 운영 전문가 영입",
+      "recruitType": "Experienced",
+      "workingType": "Permanent",
+      "workingArea": "Seoul,Gyeonggi/Incheon",
+      "start": "October 02, 2026(Fri)",
+      "end": "November 27, 2026(Fri)"
+    },
+    {
+      "noticeID": "R262136",
+      "corpName": "SK inc.(AX)",
+      "title": "네트워크 전문가 영입",
+      "recruitType": "Experienced",
+      "workingType": "Permanent",
+      "workingArea": "Gyeonggi/Incheon",
+      "start": "October 02, 2026(Fri)",
+      "end": "November 27, 2026(Fri)"
+    },
+    {
+      "noticeID": "R262185",
+      "corpName": "SK inc.(AX)",
+      "title": "인프라 보안 관리 전문가 영입 (계약직) ",
+      "recruitType": "Experienced",
+      "workingType": "Contract",
+      "workingArea": "Seoul",
+      "start": "October 08, 2026(Thu)",
+      "end": "November 27, 2026(Fri)"
+    },
+    {
+      "noticeID": "R262252",
+      "corpName": "SK inc.(AX)",
+      "title": "전사 통합 Image 솔루션 제공 플랫폼 Application PL 및 ML 엔지니어 모집 (계약직)",
+      "recruitType": "Experienced",
+      "workingType": "Contract",
+      "workingArea": "Gyeonggi/Incheon",
+      "start": "October 15, 2026(Thu)",
+      "end": "November 27, 2026(Fri)"
+    },
+    {
+      "noticeID": "R262280",
+      "corpName": "SK inc.(AX)",
+      "title": "IT 네트워크 전문가 영입 (계약직)",
+      "recruitType": "Experienced",
+      "workingType": "Contract",
+      "workingArea": "Seoul",
+      "start": "October 20, 2026(Tue)",
+      "end": "November 27, 2026(Fri)"
+    },
+    {
+      "noticeID": "R262416",
+      "corpName": "SK ecoplant",
+      "title": "'26년 11월 건축사업 설계(건축), 공사(건축/전기/설비) 경력직(촉탁직) 채용",
+      "recruitType": "Experienced",
+      "workingType": "Contract",
+      "workingArea": "NationWide",
+      "start": "November 06, 2026(Fri)",
+      "end": "November 29, 2026(Sun)"
+    },
+    {
+      "noticeID": "R260015",
+      "corpName": "SK ecoplant",
+      "title": "2026년 SK에코플랜트 보건관리자 경력직(촉탁직) 채용",
+      "recruitType": "Experienced",
+      "workingType": "Contract",
+      "workingArea": "NationWide",
+      "start": "January 05, 2026(Mon)",
+      "end": "November 30, 2026(Mon)"
+    },
+    {
+      "noticeID": "R260017",
+      "corpName": "SK ecoplant",
+      "title": "2026년 SK에코플랜트 안전관리자 경력직(촉탁직) 채용",
+      "recruitType": "Experienced",
+      "workingType": "Contract",
+      "workingArea": "NationWide",
+      "start": "January 05, 2026(Mon)",
+      "end": "November 30, 2026(Mon)"
+    },
+    {
+      "noticeID": "R260356",
+      "corpName": "SK ecoplant",
+      "title": "2026년 SK에코플랜트 안전관리자 경력직(계약직) 채용",
+      "recruitType": "Experienced",
+      "workingType": "Contract",
+      "workingArea": "Seoul,Gyeonggi/Incheon,Chungcheong,Gyeongsang,Jeolla,Gangwon,Busan,Daegu,Gwangju,Ulsan,Daejeon,NationWide",
+      "start": "February 26, 2026(Thu)",
+      "end": "November 30, 2026(Mon)"
+    },
+    {
+      "noticeID": "R260357",
+      "corpName": "SK ecoplant",
+      "title": "2026년 SK에코플랜트 보건관리자 경력직(계약직) 채용",
+      "recruitType": "Experienced",
+      "workingType": "Contract",
+      "workingArea": "Seoul,Gyeonggi/Incheon,Chungcheong,Gyeongsang,Jeolla,Gangwon,Busan,Daegu,Gwangju,Ulsan,Daejeon,NationWide",
+      "start": "February 26, 2026(Thu)",
+      "end": "November 30, 2026(Mon)"
+    },
+    {
+      "noticeID": "R262266",
+      "corpName": "SK inc.(AX)",
+      "title": "반도체 Cloud/AI Platform 개발/운영 전문가 영입",
+      "recruitType": "Experienced",
+      "workingType": "Permanent",
+      "workingArea": "Gyeonggi/Incheon",
+      "start": "October 16, 2026(Fri)",
+      "end": "November 30, 2026(Mon)"
+    },
+    {
+      "noticeID": "R262398",
+      "corpName": "애커튼파트너스",
+      "title": "서비스산업 컨설턴트 (경력)",
+      "recruitType": "Experienced",
+      "workingType": "Permanent",
+      "workingArea": "Seoul,Gyeonggi/Incheon",
+      "start": "November 02, 2026(Mon)",
+      "end": "November 30, 2026(Mon)"
+    },
+    {
+      "noticeID": "R262112",
+      "corpName": "SK signet",
+      "title": "기술운영/시운전 Part (경력)",
+      "recruitType": "Experienced",
+      "workingType": "Permanent",
+      "workingArea": "Gyeonggi/Incheon",
+      "start": "October 01, 2026(Thu)",
+      "end": "December 01, 2026(Tue)"
+    },
+    {
+      "noticeID": "R262274",
+      "corpName": "SK inc.(AX)",
+      "title": "Application 구축/운영 전문가 영입 (계약직)",
+      "recruitType": "Experienced",
+      "workingType": "Contract",
+      "workingArea": "Seoul",
+      "start": "October 21, 2026(Wed)",
+      "end": "December 01, 2026(Tue)"
+    },
+    {
+      "noticeID": "R262275",
+      "corpName": "SK inc.(AX)",
+      "title": "AX/AI 프로젝트 PM/PL 영입 (계약직)",
+      "recruitType": "Experienced",
+      "workingType": "Contract",
+      "workingArea": "Seoul",
+      "start": "October 21, 2026(Wed)",
+      "end": "December 01, 2026(Tue)"
+    },
+    {
+      "noticeID": "R262281",
+      "corpName": "SK inc.(AX)",
+      "title": "Application 구축/운영 전문가 영입",
+      "recruitType": "Experienced",
+      "workingType": "Permanent",
+      "workingArea": "Seoul",
+      "start": "October 21, 2026(Wed)",
+      "end": "December 01, 2026(Tue)"
+    },
+    {
+      "noticeID": "R262283",
+      "corpName": "SK inc.(AX)",
+      "title": "AX/AI 프로젝트 PM/PL 영입",
+      "recruitType": "Experienced",
+      "workingType": "Permanent",
+      "workingArea": "Seoul",
+      "start": "October 21, 2026(Wed)",
+      "end": "December 01, 2026(Tue)"
+    },
+    {
+      "noticeID": "R262231",
+      "corpName": "SK signet",
+      "title": "경영관리(예산·손익관리) 담당자 채용 (경력)",
+      "recruitType": "Experienced",
+      "workingType": "Permanent",
+      "workingArea": "Gyeonggi/Incheon",
+      "start": "October 14, 2026(Wed)",
+      "end": "December 14, 2026(Mon)"
+    },
+    {
+      "noticeID": "R262232",
+      "corpName": "SK signet",
+      "title": "[영광] 수입 검사 담당 (경력)",
+      "recruitType": "Experienced",
+      "workingType": "Permanent",
+      "workingArea": "Jeolla",
+      "start": "October 14, 2026(Wed)",
+      "end": "December 14, 2026(Mon)"
+    },
+    {
+      "noticeID": "R262308",
+      "corpName": "SK inc.(AX)",
+      "title": "화이트해킹/침투테스트 분야 전문가 영입",
+      "recruitType": "Experienced",
+      "workingType": "Permanent",
+      "workingArea": "Gyeonggi/Incheon",
+      "start": "October 27, 2026(Tue)",
+      "end": "December 15, 2026(Tue)"
+    },
+    {
+      "noticeID": "R262392",
+      "corpName": "SK inc.(AX)",
+      "title": "SAP BW/BDC/BI/Data Analytics 분야 전문가 영입",
+      "recruitType": "Experienced",
+      "workingType": "Permanent",
+      "workingArea": "Seoul,Gyeonggi/Incheon",
+      "start": "October 30, 2026(Fri)",
+      "end": "December 18, 2026(Fri)"
+    },
+    {
+      "noticeID": "R262429",
+      "corpName": "SK inc.(AX)",
+      "title": "Digital Twin 개발 전문가 영입",
+      "recruitType": "Experienced",
+      "workingType": "Permanent",
+      "workingArea": "Gyeonggi/Incheon",
+      "start": "November 04, 2026(Wed)",
+      "end": "December 21, 2026(Mon)"
+    },
+    {
+      "noticeID": "R262430",
+      "corpName": "SK inc.(AX)",
+      "title": "보안 아키텍트 영입",
+      "recruitType": "Experienced",
+      "workingType": "Permanent",
+      "workingArea": "Gyeonggi/Incheon",
+      "start": "November 04, 2026(Wed)",
+      "end": "December 21, 2026(Mon)"
+    },
+    {
+      "noticeID": "R262445",
+      "corpName": "SK inc.(AX)",
+      "title": "반도체 제조 기준정보 (MDM) 전문가 영입 (계약직)",
+      "recruitType": "Experienced",
+      "workingType": "Contract",
+      "workingArea": "Gyeonggi/Incheon",
+      "start": "November 09, 2026(Mon)",
+      "end": "December 23, 2026(Wed)"
+    },
+    {
+      "noticeID": "R262415",
+      "corpName": "SK inc.(AX)",
+      "title": "제조 AI · Data 분야 [Data Engineer / DevOps(k8s)] 전문가 영입",
+      "recruitType": "Experienced",
+      "workingType": "Permanent",
+      "workingArea": "Gyeonggi/Incheon",
+      "start": "November 04, 2026(Wed)",
+      "end": "December 25, 2026(Fri)"
+    },
+    {
+      "noticeID": "R262417",
+      "corpName": "SK inc.(AX)",
+      "title": "AI 기반 차세대 통신 BSS/OSS(NOVA) 응용개발 분야 전문가 영입",
+      "recruitType": "Experienced",
+      "workingType": "Permanent",
+      "workingArea": "Seoul",
+      "start": "November 04, 2026(Wed)",
+      "end": "December 25, 2026(Fri)"
+    },
+    {
+      "noticeID": "R262418",
+      "corpName": "SK inc.(AX)",
+      "title": "Telco. 컨택센터 Application 운영/개발 전문가 영입",
+      "recruitType": "Experienced",
+      "workingType": "Permanent",
+      "workingArea": "Gyeonggi/Incheon",
+      "start": "November 04, 2026(Wed)",
+      "end": "December 25, 2026(Fri)"
+    },
+    {
+      "noticeID": "R262419",
+      "corpName": "SK inc.(AX)",
+      "title": "통신 BSS 차세대 비즈니스 기획 분야 전문가 영입",
+      "recruitType": "Experienced",
+      "workingType": "Permanent",
+      "workingArea": "Seoul",
+      "start": "November 04, 2026(Wed)",
+      "end": "December 25, 2026(Fri)"
+    },
+    {
+      "noticeID": "R260562",
+      "corpName": "SK ons",
+      "title": "2026 SK오앤에스 Access 현장운용지원 구성원 채용",
+      "recruitType": "Entry-Level",
+      "workingType": "Contract",
+      "workingArea": "Gyeonggi/Incheon,Gangwon,Busan,Chungcheong",
+      "start": "April 01, 2026(Wed)",
+      "end": "December 31, 2026(Thu)"
+    },
+    {
+      "noticeID": "R261097",
+      "corpName": "Tmap Mobility",
+      "title": "개발 Project Manager - TMAP AUTO 개발 프로젝트 리딩",
+      "recruitType": "Experienced",
+      "workingType": "Permanent",
+      "workingArea": "Seoul",
+      "start": "May 14, 2026(Thu)",
+      "end": "December 31, 2026(Thu)"
+    },
+    {
+      "noticeID": "R261272",
+      "corpName": "Tmap Mobility",
+      "title": "Site Reliability Engineer (SRE)",
+      "recruitType": "Experienced",
+      "workingType": "Permanent",
+      "workingArea": "Seoul",
+      "start": "June 02, 2026(Tue)",
+      "end": "December 31, 2026(Thu)"
+    },
+    {
+      "noticeID": "R261531",
+      "corpName": "Tmap Mobility",
+      "title": " API/SDK 상품운영 및 기술지원 담당자",
+      "recruitType": "Experienced",
+      "workingType": "Permanent",
+      "workingArea": "Seoul",
+      "start": "July 09, 2026(Thu)",
+      "end": "December 31, 2026(Thu)"
+    },
+    {
+      "noticeID": "R261714",
+      "corpName": "Tmap Mobility",
+      "title": " Android SDK Engineer",
+      "recruitType": "Experienced",
+      "workingType": "Permanent",
+      "workingArea": "Seoul",
+      "start": "August 03, 2026(Mon)",
+      "end": "December 31, 2026(Thu)"
+    },
+    {
+      "noticeID": "R261800",
+      "corpName": "Tmap Mobility",
+      "title": "AI Agent TPM (Technical Project Manager)",
+      "recruitType": "Experienced",
+      "workingType": "Permanent",
+      "workingArea": "Seoul",
+      "start": "August 18, 2026(Tue)",
+      "end": "December 31, 2026(Thu)"
+    },
+    {
+      "noticeID": "R261822",
+      "corpName": "Tmap Mobility",
+      "title": "AUTO QE (리더)",
+      "recruitType": "Experienced",
+      "workingType": "Permanent",
+      "workingArea": "Seoul",
+      "start": "August 20, 2026(Thu)",
+      "end": "December 31, 2026(Thu)"
+    },
+    {
+      "noticeID": "R261864",
+      "corpName": "Tmap Mobility",
+      "title": " Automotive Test Manager ",
+      "recruitType": "Experienced",
+      "workingType": "Permanent",
+      "workingArea": "Seoul",
+      "start": "August 27, 2026(Thu)",
+      "end": "December 31, 2026(Thu)"
+    },
+    {
+      "noticeID": "R261959",
+      "corpName": "Tmap Mobility",
+      "title": "QA Automation Engineer",
+      "recruitType": "Experienced",
+      "workingType": "Permanent",
+      "workingArea": "Seoul",
+      "start": "September 10, 2026(Thu)",
+      "end": "December 31, 2026(Thu)"
+    },
+    {
+      "noticeID": "R262015",
+      "corpName": "Tmap Mobility",
+      "title": "LLMOps Engineer",
+      "recruitType": "Experienced",
+      "workingType": "Permanent",
+      "workingArea": "Seoul",
+      "start": "September 17, 2026(Thu)",
+      "end": "December 31, 2026(Thu)"
+    },
+    {
+      "noticeID": "R262101",
+      "corpName": "Tmap Mobility",
+      "title": "사업개발 담당자 - 자동차 부문/TMAP 인포테인먼트",
+      "recruitType": "Experienced",
+      "workingType": "Permanent",
+      "workingArea": "Seoul",
+      "start": "September 30, 2026(Wed)",
+      "end": "December 31, 2026(Thu)"
+    },
+    {
+      "noticeID": "R262166",
+      "corpName": "Tmap Mobility",
+      "title": "사내 변호사",
+      "recruitType": "Experienced",
+      "workingType": "Permanent",
+      "workingArea": "Seoul",
+      "start": "October 07, 2026(Wed)",
+      "end": "December 31, 2026(Thu)"
+    },
+    {
+      "noticeID": "R262169",
+      "corpName": "Tmap Mobility",
+      "title": "Data Analytics (리더)",
+      "recruitType": "Experienced",
+      "workingType": "Permanent",
+      "workingArea": "Seoul",
+      "start": "October 07, 2026(Wed)",
+      "end": "December 31, 2026(Thu)"
+    },
+    {
+      "noticeID": "R262196",
+      "corpName": "Tmap Mobility",
+      "title": "AI Agent Engineer",
+      "recruitType": "Experienced",
+      "workingType": "Permanent",
+      "workingArea": "Seoul",
+      "start": "October 12, 2026(Mon)",
+      "end": "December 31, 2026(Thu)"
+    },
+    {
+      "noticeID": "R262268",
+      "corpName": "Tmap Mobility",
+      "title": "Client Engineer (Android)",
+      "recruitType": "Experienced",
+      "workingType": "Permanent",
+      "workingArea": "Seoul",
+      "start": "October 19, 2026(Mon)",
+      "end": "December 31, 2026(Thu)"
+    },
+    {
+      "noticeID": "R262269",
+      "corpName": "Tmap Mobility",
+      "title": "Client Engineer (iOS)",
+      "recruitType": "Experienced",
+      "workingType": "Permanent",
+      "workingArea": "Seoul",
+      "start": "October 19, 2026(Mon)",
+      "end": "December 31, 2026(Thu)"
+    },
+    {
+      "noticeID": "R262270",
+      "corpName": "Tmap Mobility",
+      "title": "Navigation SDK Engineer",
+      "recruitType": "Experienced",
+      "workingType": "Permanent",
+      "workingArea": "Seoul",
+      "start": "October 19, 2026(Mon)",
+      "end": "December 31, 2026(Thu)"
+    },
+    {
+      "noticeID": "R262310",
+      "corpName": "Tmap Mobility",
+      "title": "Backend Engineer – 모빌리티 서비스",
+      "recruitType": "Experienced",
+      "workingType": "Permanent",
+      "workingArea": "Seoul",
+      "start": "October 22, 2026(Thu)",
+      "end": "December 31, 2026(Thu)"
+    },
+    {
+      "noticeID": "R262339",
+      "corpName": "Tmap Mobility",
+      "title": "Data Platform Engineer",
+      "recruitType": "Experienced",
+      "workingType": "Permanent",
+      "workingArea": "Seoul",
+      "start": "October 26, 2026(Mon)",
+      "end": "December 31, 2026(Thu)"
+    },
+    {
+      "noticeID": "R262342",
+      "corpName": "Tmap Mobility",
+      "title": "Product Designer/Owner - TMAP AUTO",
+      "recruitType": "Experienced",
+      "workingType": "Permanent",
+      "workingArea": "Seoul",
+      "start": "October 26, 2026(Mon)",
+      "end": "December 31, 2026(Thu)"
+    },
+    {
+      "noticeID": "R262344",
+      "corpName": "SK inc.(AX)",
+      "title": "SK하이닉스 데이터센터 및 인프라 구축 전문가 영입 (네트워크/시스템/DB)",
+      "recruitType": "Experienced",
+      "workingType": "Permanent",
+      "workingArea": "Gyeonggi/Incheon,Chungcheong,Abroad",
+      "start": "October 26, 2026(Mon)",
+      "end": "December 31, 2026(Thu)"
+    },
+    {
+      "noticeID": "R262346",
+      "corpName": "SK inc.(AX)",
+      "title": "SK하이닉스 Cloud 구축 및 운영 전문가 영입",
+      "recruitType": "Experienced",
+      "workingType": "Permanent",
+      "workingArea": "Gyeonggi/Incheon",
+      "start": "October 26, 2026(Mon)",
+      "end": "December 31, 2026(Thu)"
+    },
+    {
+      "noticeID": "R262382",
+      "corpName": "SK signet",
+      "title": " 충방전기개발팀 - SW개발·현장 기술지원 (Junior)",
+      "recruitType": "Experienced",
+      "workingType": "Permanent",
+      "workingArea": "Gyeonggi/Incheon",
+      "start": "October 29, 2026(Thu)",
+      "end": "December 31, 2026(Thu)"
+    },
+    {
+      "noticeID": "R262383",
+      "corpName": "SK signet",
+      "title": "충방전기개발팀 - SW개발·현장 기술지원 (Senior)",
+      "recruitType": "Experienced",
+      "workingType": "Permanent",
+      "workingArea": "Gyeonggi/Incheon",
+      "start": "October 29, 2026(Thu)",
+      "end": "December 31, 2026(Thu)"
+    },
+    {
+      "noticeID": "R262402",
+      "corpName": "Tmap Mobility",
+      "title": "Backend Engineer - RP/교통",
+      "recruitType": "Experienced",
+      "workingType": "Permanent",
+      "workingArea": "Seoul",
+      "start": "November 03, 2026(Tue)",
+      "end": "December 31, 2026(Thu)"
+    },
+    {
+      "noticeID": "R262404",
+      "corpName": "Tmap Mobility",
+      "title": "사업 정산/운영 지원 담당자 (계약직)",
+      "recruitType": "Experienced",
+      "workingType": "Contract",
+      "workingArea": "Seoul",
+      "start": "November 03, 2026(Tue)",
+      "end": "December 31, 2026(Thu)"
+    },
+    {
+      "noticeID": "R261866",
+      "corpName": "SK signet",
+      "title": " [천안/호남·제주] 전기공사 현장대리인",
+      "recruitType": "Experienced",
+      "workingType": "Contract",
+      "workingArea": "Chungcheong,Jeju",
+      "start": "November 03, 2026(Tue)",
+      "end": "February 27, 2027(Sat)"
+    },
+    {
+      "noticeID": "R251763",
+      "corpName": "SK signet",
+      "title": "정보보안 담당 (7년이상)",
+      "recruitType": "Experienced",
+      "workingType": "Permanent",
+      "workingArea": "Gyeonggi/Incheon",
+      "start": "November 03, 2026(Tue)",
+      "end": "February 28, 2027(Sun)"
+    },
+    {
+      "noticeID": "R262433",
+      "corpName": "SK signet",
+      "title": "해외사업 및 기술영업 담당 (4년이상)",
+      "recruitType": "Experienced",
+      "workingType": "Permanent",
+      "workingArea": "Gyeonggi/Incheon",
+      "start": "November 05, 2026(Thu)",
+      "end": "March 05, 2027(Fri)"
+    }
+  ]
+}
